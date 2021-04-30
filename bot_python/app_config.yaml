@@ -1,0 +1,9 @@
+schedule_time: false
+task_config_file_path: config/task_config/
+replace_task_config_fn: task_config
+replace_report_config_fn: report_config
+chrome_driver_path: chrome_driver/
+temp_path: Test_results\BotTemp\Temp
+headless_mode: false
+backup_path: Test_results\BotTemp\bak
+missing_report_path: missing_reports

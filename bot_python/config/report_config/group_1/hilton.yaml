@@ -1,0 +1,24 @@
+reports: 
+  - hotel_iD: 100
+    file_format: xls 
+    report_name: OrderSummary
+    folder_name: OrderSummary
+    report_xpath: //*[@aria-label='navigate to Sales summary']
+    start_date_diff: -1
+    end_date_diff: -1
+    
+  - hotel_iD: 100
+    file_format: xls 
+    report_name: OrderSummary
+    folder_name: OrderSummary
+    report_xpath: //*[@aria-label='navigate to Sales summary']
+    start_date_diff: -1
+    end_date_diff: -1
+
+  - hotel_iD: 100
+    file_format: xls 
+    report_name: OrderSummary
+    folder_name: OrderSummary
+    report_xpath: //*[@aria-label='navigate to Sales summary']
+    start_date_diff: -1
+    end_date_diff: -1
