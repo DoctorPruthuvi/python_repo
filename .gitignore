@@ -5,6 +5,8 @@ __pycache__/
 # C extensions
 *.so
 predict_future_sales/data
+vehicle_dt/random_forest_regression_model.pkl
+
 # Distribution / packaging
 bin/
 build/
